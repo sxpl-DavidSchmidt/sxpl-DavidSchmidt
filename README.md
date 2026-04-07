@@ -1,6 +1,10 @@
 # 👋 Hi there!
 
-Welcome to my GitHub profile! I'm a 22-year-old developer from Germany, passionate about building efficient, high-performance systems and exploring the interaction between software and hardware. I enjoy solving difficult problems and continuously improving my skills.
+Welcome to my GitHub profile!
+
+I'm a 22-year-old developer from Germany, passionate about building efficient, high-performance systems and exploring the interaction between software and hardware.
+
+I enjoy solving difficult problems and continuously improving my skills.
 
 ---
 
