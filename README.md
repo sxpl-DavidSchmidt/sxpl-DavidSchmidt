@@ -11,8 +11,6 @@ I enjoy solving difficult problems and continuously improving my skills.
 </p>
 
 ## 🔧 Interests
-- 🧠 **Algorithmics** - Writing efficient code to solve complex problems
-- 👾 **Embedded Systems** - Low-level programming and hardware interaction
-- 🤖 **Robotics** - Combining software and hardware to create intelligent systems
-- ⚡ **Electronics** - Understanding and building circuits and embedded devices
-
+- **Algorithmics** - Writing efficient code to solve complex problems
+- **Embedded Systems** - Low-level programming and hardware interaction
+- **Robotics** - Combining software and hardware to create intelligent systems
