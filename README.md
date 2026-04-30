@@ -1,8 +1,6 @@
 # 👋 Hi there!
 Welcome to my GitHub profile! I'm a 22-year-old developer from Germany, passionate about building efficient, high-performance systems, exploring the world of AI and learning about the interaction between software and hardware.
 
-I enjoy solving difficult problems and continuously improving my skills.
-
 ## 💻 My Go-To Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" hspace="20"/>
